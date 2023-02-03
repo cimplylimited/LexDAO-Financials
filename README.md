@@ -9,5 +9,5 @@ Using scripts to access blockchain APIs for DAO financial data
   2. https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 
-#Git Commands
+# Git Commands
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
